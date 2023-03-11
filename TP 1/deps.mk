@@ -1,0 +1,1 @@
+wachencoin: tp1.c pila.o lista.o strutil.o
